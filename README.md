@@ -1,4 +1,7 @@
 # Matriz_redeSocial
+Luan Patrick - 217687
+Lucas Gradvohl - 2217036
+
 Tempo para calcular a matriz resultante: O tempo total utilizado para calcular a matriz resultante A² foi de aproximadamente 0,019260 segundos.
 
 Tempo para identificar as pessoas com mais amigos em comum e a pessoa mais influente: O tempo gasto para essa análise foi de 0,006146 segundos.
